@@ -1,0 +1,9 @@
+Building diaoyudaocoin
+
+See doc/readme-qt.rst for instructions on building diaoyudaocoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of diaoyudaocoin.
+
+See doc/build-*.txt for instructions on building diaoyudaocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of diaoyudaocoin.

@@ -1,0 +1,26 @@
+﻿Directions
+-----------
+Copy the file diaoyudaocoin.conf from your main diaoyudaocoin directory (the folder you unzipped) to the root AppData/Application Support diaoyudaocoin storage folder.
+
+For Windows:
+The file AppData folder is hidden by default so make sure to enable viewing hidden files. Example:�Windows drive(C:) -> Users -> *YourWindowsUsername*->AppData->Roaming->diaoyudaocoin
+
+For Mac:
+Your diaoyudaocoin.conf file should be moved to one of the following directories:
+$HOME/Library/Application Support/diaoyudaocoin/ ���
+OR
+/Users/username/Library/Application Support/diaoyudaocoin/
+
+Press command+alt to show the library directory (if it is hidden) in the finder's Go menu.
+
+You can create the diaoyudaocoin folder before the first run or the client will automatically create the directory on the first run and then you can close it and move the diaoyudaocoin.conf file.
+
+Firewalls:
+----------
+Forward port 8888 in your router firewall and/or software firewalls for more connections or if you have connection issues.
+testnet 88888
+
+Technical Support
+-----------------
+If you have any issues, you can get support at the diaoyudaocoin forum:
+� http://diaoyudaocoin.com/forums
